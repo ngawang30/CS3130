@@ -1,4 +1,3 @@
-Position,Track Name,Artist,Streams,URL
 1,WAP (feat. Megan Thee Stallion),Cardi B,6466204,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
 2,Hawái,Maluma,5696927,https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp
 3,Mood (feat. Iann Dior),24kGoldn,4847213,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
