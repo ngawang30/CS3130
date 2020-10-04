@@ -58,7 +58,7 @@ public class TopStreamingArtists {
 		String [] arrTwo;
 		int counter = 0;
 		boolean exists = false;
-		Scanner sc = new Scanner(new File("Top.txt"));
+		Scanner sc = new Scanner(new File("SpotifyCSV.txt"));
 
 		while(sc.hasNext()){
 			exists = false;
