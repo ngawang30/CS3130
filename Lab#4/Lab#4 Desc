@@ -1,0 +1,10 @@
+# Lab#4 Project Description
+
+## Problem  
+Read from multiple csv files of spotify songs for the past fiscal months.  Order the data for each week and build a playlist queue from the data.  Also, make a list for the recently listened songs.
+
+## Solution
+1) Using the scanner, the CSV file was read into a double array, the first index represnting the week and the second index.  
+2) The double array was ordered alphabetically for each week.
+3) This double array is written to a file using printstream.
+4) A new single array is created for all the songs.  Duplicates are removed and the list is ordered.
