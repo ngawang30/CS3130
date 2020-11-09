@@ -1,10 +1,10 @@
 # Lab#5 Project Description
 
 ## Problem  
-Read from a csv file of spotify songs form the past week.  Order the data and build a binary search tree.  Also, make a method called subset which returns a range of strings from the song list.
+Read from a csv file of spotify songs form the past week.  Order the data and build a binary search tree.  Also, make a method called subset which writes out a range of strings from the song list to an external file.
 
 ## Solution
-1) Using the scanner, the CSV file was read into a double array, the first index represnting the week and the second index.  
+1) Using the scanner, the CSV file was read into a double array, the first index represnting the week and the second the three fields of the song node.  
 2) The double array was ordered alphabetically.
 3) This double array is written to a file using printstream.
 4) The double array was used to create a binary search tree.
