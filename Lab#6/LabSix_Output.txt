@@ -1,0 +1,116 @@
+What grade did you get on Practice Problem 1?
+If it was incomplete, please enter -1.
+6
+
+What grade did you get on Practice Problem 2?
+If it was incomplete, please enter -1.
+6
+
+What grade did you get on Practice Problem 3?
+If it was incomplete, please enter -1.
+6
+
+What grade did you get on Practice Problem 4?
+If it was incomplete, please enter -1.
+6
+
+What grade did you get on Practice Problem 5?
+If it was incomplete, please enter -1.
+6
+
+What grade did you get on Practice Problem 6?
+If it was incomplete, please enter -1.
+6
+
+What grade did you get on Practice Problem 7?
+If it was incomplete, please enter -1.
+0
+
+What grade did you get on Practice Problem 8?
+If it was incomplete, please enter -1.
+-1
+
+What grade did you get on Lab 1?
+If it was incomplete, please enter -1.
+2
+
+What grade did you get on Lab 2?
+If it was incomplete, please enter -1.
+0
+
+What grade did you get on Lab 3?
+If it was incomplete, please enter -1.
+2
+
+What grade did you get on Lab 4?
+If it was incomplete, please enter -1.
+2
+
+What grade did you get on Lab 5?
+If it was incomplete, please enter -1.
+2
+
+What grade did you get on Lab 6?
+If it was incomplete, please enter -1.
+2
+
+What grade did you get on Lab 7?
+If it was incomplete, please enter -1.
+2
+
+What grade did you get on Midterm 1?
+If it was incomplete, please enter -1.
+7
+
+What grade did you get on Midterm 2?
+If it was incomplete, please enter -1.
+5
+
+What grade did you get on Final?
+If it was incomplete, please enter -1.
+-1
+
+Practice Problem 1   6         
+
+Practice Problem 2   6         
+
+Practice Problem 3   6         
+
+Practice Problem 4   6         
+
+Practice Problem 5   6         
+
+Practice Problem 6   6         
+
+Practice Problem 7   0         
+
+Practice Problem 8   -1        
+
+Lab 1                2         
+
+Lab 2                0         
+
+Lab 3                2         
+
+Lab 4                2         
+
+Lab 5                2         
+
+Lab 6                2         
+
+Lab 7                2         
+
+Midterm 1            7         
+
+Midterm 2            5         
+
+Final                -1        
+
+Your Final Grade:    58.71     
+
+
+What grade would you like to earn?
+80
+
+You need a 6 on Practice Problem 8
+You need at least 7.89 on Final
