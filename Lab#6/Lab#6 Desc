@@ -1,0 +1,12 @@
+# Lab#6 Project Description
+
+## Problem  
+Build a grade calculator that also allows you to calculate what grades you need on unassigned assignements to get the desired grade.
+
+## Solution
+1) Scan in each assignment while asking the user for their grade for each assignment.
+2) Create a method to display the grades cleanly.  (The toString method).
+3) Get an array of the ungraded assignments from the general grade array.
+4) Order the array of ungraded assignments by points.
+5) Check if the desired grade is possible, and if so, what must they get on each assignment to get said grade.
+6) Report.
